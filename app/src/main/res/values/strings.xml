@@ -1,0 +1,343 @@
+<resources>
+    <string name="app_name">Kids_Hub</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string-array name="Story_List">
+        <item>17 Camels and 3 Sons</item>
+        <item>Cocoon and the Butterfly</item>
+        <item>Strong or Weak</item>
+        <item>The Lion and the Mouse</item>
+        <item>The Goose with the Golden Eggs</item>
+        <item>The Cunning Fox and the Clever Stork</item>
+        <item>The Hare and the Tortoise</item>
+        <item>A Hole in the Fence</item>
+    </string-array>
+    <string name="story1">Long ago, there lived an old man with his three sons in a deserted village, located in the vicinity of a desert. He had 17 camels, and they were the main source of his income. He used to rent out camels as a means of shipping in the desert. One day, he passed away. He had left a will, leaving his assets for his three sons.
+After the funeral and the other obligations were over, the three sons read the will. While their father had divided all the property he had into three equal parts, he had divided the 17 camels in a different way. They were not shared equally among the three as ‘17’ is an odd number and a prime number, which cannot be divided.
+The old man had stated that the eldest son will own half of the 17 camels, the middle one will get one third of the 17 camels, and the youngest one will get his share of camels as one ninth!
+All of them were stunned to read the will and questioned each other how to divide the 17 camels as mentioned in the will. It is not possible to divide 17 camels and give half of the 17 camels to the eldest one. It is not possible also to divide the camels for the other two sons.
+They spent several days thinking of ways to divide the camels as mentioned in the will, but none could find the answer.
+They finally took the issue to the wise man in their village. The wise man heard the problem and instantly found a solution. He asked them to bring all the 17 camels to him.
+The sons brought the camels to the wise man’s place. The wise man added a camel owned by him and made the total number of camels 18.
+Now, he asked the first son to read the will. As per the will, the eldest son got half the camels, which now counted to 18 / 2 = 9 camels! The eldest one got 9 camels as his share.
+The remaining camels were 9.
+The wise man asked the second son to read the will. He was assigned 1 / 3 of the total camels.
+It came to 18 / 3 = 6 camels. The second son got 6 camels as his share.
+Total number of camels shared by the elder sons – 9 + 6 = 15 camels.
+The third son read out his share of camels: 1 / 9th of the total number of camels – 18 / 9 = 2 camels.
+The youngest one got 2 camels as his share.
+Totally there were 9 + 6 + 2 camels shared by the brothers, which counted to 17 camels.
+Now, the one camel added by the wise man was taken back.
+The wise man solved this problem smartly with his intelligence.
+Intelligence is nothing but finding a common ground to solve an issue. In short, every problem has a solution.
+</string>
+    <string name="story2">Many of us know that a beautiful and colourful butterfly comes from an unappealing worm! Here is the story of a butterfly that was never able to live its life as a normal butterfly.
+One day, a man saw a cocoon. He loved butterflies and had a craze for its wonderful combination of colours. In fact, he used to spend a lot of time around butterflies. He knew how a butterfly would struggle to transform from an ugly caterpillar into a beautiful one.
+He saw the cocoon with a tiny opening. It meant that the butterfly was trying to make its way out to enjoy the world. He decided to watch how the butterfly would come out of the cocoon. He was watching the butterfly struggling to break the shell for several hours. He spent almost more than 10 hours with the cocoon and the butterfly. The butterfly had been struggling very hard for hours to come out through the tiny opening. Unfortunately, even after continuous attempts for several hours, there was no progress. It seemed that the butterfly had tried its best and could not give any more try.
+The man, who had a passion and love for butterflies, decided to help the butterfly. He got a pair of scissors and tweaked the cocoon to make larger opening for the butterfly and removed the remaining cocoon. The butterfly emerged without any struggle!
+Unfortunately, the butterfly looked no longer beautiful and had a swollen body with small and withered wings.
+The man was happy that he had made the butterfly come out of the cocoon without any more struggles. He continued to watch the butterfly and was quite eager to see it fly with its beautiful wings. He thought that at any time, the butterfly might expand its wings, shrink the body and the wings could support the body. Unfortunately, neither did the wings expand nor the swollen body reduce.
+Unfortunately, the butterfly just crawled around with withered wings and a huge body. It was never able to fly. Although the man did it with a good intention, he did not know that only by going through struggles the butterfly can emerge to be beautiful, with strong wings.
+The continuous effort from the butterfly to come out of its cocoon would let the fluid stored in the body be converted into wings. Thus, the body would become lighter and smaller, and the wings would be beautiful and large.
+If we don’t want to undergo any struggle, we won’t be able to fly!
+Struggles make us shine!
+</string>
+
+    <string name="story3">There was a proud teak tree in the forest. He was tall and strong. There was a small herb next to the tree.
+The teak tree said, “I am very handsome and strong. No one can defeat me.” Hearing this, the herb replied, “Dear friend, too much pride is harmful. Even the strong will fall one day.”
+The teak ignored the herb’s words. He continued to praise himself.
+A strong wind blew. The teak stood firmly. Even when it rained, the teak stood strong by spreading its leaves.
+During these times, the herb bowed low. The teak made fun of the herb.
+One day, there was a storm in the forest. The herb bowed low. As usual, the teak did not want to bow.
+The storm kept growing stronger. The teak could no longer bear it. He felt his strength giving way.
+He tried his best to stand upright, but in the end, he fell down. That was the end of the proud tree.
+When everything was calm again, the herb stood straight. He looked around. He saw that the proud teak had fallen.
+Moral: Pride goes before a fall.
+</string>
+
+    <string name="story4">Once when a lion, the king of the jungle, was asleep, a little mouse began running up and down on him. This soon awakened the lion, who placed his huge paw on the mouse, and opened his big jaws to swallow him.
+"Pardon, O King!" cried the little mouse. "Forgive me this time. I shall never repeat it and I shall never forget your kindness. And who knows, I may be able to do you a good turn one of these days!”
+The lion was so tickled by the idea of the mouse being able to help him that he lifted his paw and let him go.
+Sometime later, a few hunters captured the lion, and tied him to a tree. After that they went in search of a wagon, to take him to the zoo.
+
+Just then the little mouse happened to pass by. On seeing the lion’s plight, he ran up to him and gnawed away the ropes that bound him, the king of the jungle.
+"Was I not right?" said the little mouse, very happy to help the lion.
+MORAL: Small acts of kindness will be rewarded greatly.
+</string>
+
+    <string name="story5">Once upon a time, a man and his wife had the good fortune to have a goose which laid a golden egg every day. Lucky though they were, they soon began to think they were not getting rich fast enough.
+They imagined that if the bird is able to lay golden eggs, its insides must be made of gold. And they thought that if they could get all that precious metal at once, they would get mighty rich very soon. So the man and his wife decided to kill the bird.
+However, upon cutting the goose open, they were shocked to find that its innards were like that of any other goose!
+MORAL: THINK BEFORE YOU ACT
+</string>
+
+    <string name="story6">Once upon a time, there lived a very cunning and mischievous fox. He used to speak to other animals sweetly and gain their trust, before playing tricks on them.
+One day the fox met a stork. He befriended the stork and acted like a very good friend. Soon, he invited the stork to have a feast with him. The stork happily accepted the invitation.
+The day of the feast came, and the stork went to the fox’s house. To her surprise and disappointment, the fox said that he could not make a big feast as promised, and just offered some soup. When he brought the soup out of the kitchen, the stork saw that it was in a shallow bowl!
+The poor stork could not have any soup with its long bill, but the fox easily licked the soup from the plate. As the stork just touched the soup with the tip of its bill, the fox asked her, “How is the soup? Don’t you like it?”
+The hungry stork replied, “Oh it is good, but my stomach is upset, and I can’t take any more soup!”
+“I’m sorry for troubling you,” said the fox.
+The stork replied, “Oh dear, please don’t say sorry. I have some health problem and cannot enjoy what you offer.”
+She left the place after thanking the fox, and inviting him to her house for dinner.
+
+The day arrived and the fox reached the stork’s place. After exchanging pleasantries, the stork served soup for both of them, in a narrow jar with a long neck. She was able to have the soup very easily with her long bill, but the fox obviously could not.
+After finishing hers, the stork asked the fox if he was enjoying the soup. The fox remembered the feast he himself had given the stork, and felt very ashamed. He stammered, “I…I’d better leave now. I have a tummy ache.”
+Humiliated, he left the place running.
+Moral: One bad turn begets another.
+</string>
+
+    <string name="story7">There once was a speedy Hare who bragged about how fast he could run. Tired of hearing him boast, the Tortoise challenged him to a race. All the animals in the forest gathered to watch.
+The Hare ran down the road for a while and then paused to rest. He looked back at the tortoise and cried out, "How do you expect to win this race when you are walking along at your slow, slow pace?"
+The Hare stretched himself out alongside the road and fell asleep, thinking, "There is plenty of time to relax."
+
+The Tortoise walked and walked, never ever stopping until he came to the finish line.
+The animals who were watching cheered so loudly for Tortoise that they woke up the Hare. The Hare stretched, yawned and began to run again, but it was too late. Tortoise had already crossed the finish line.
+Moral: Slow and steady wins the race.
+</string>
+
+    <string name="story8">In a small village, a little boy lived with his father and mother. He was the only son. The parents of the little boy were very depressed due to his bad temper. The boy used to get angry very soon and taunt others with his words. His bad temper made him use words that hurt others. He scolded kids, neighbours and even his friends due to anger. His friends and neighbours avoided him, and his parents were really worried about him.
+His mother and father advised him many times to control his anger and develop kindness. Unfortunately, all their attempts failed. Finally, the boy’s father came up with an idea.
+One day, his father gave him a huge bag of nails. He asked his son to hammer one nail to the fence every time he became angry and lost his temper. The little boy found it amusing and accepted the task.
+Every time he lost his temper, he ran to the fence and hammered a nail. His anger drove him to hammer nails on the fence 30 times on the first day! After the next few days, the number of nails hammered on the fence was reduced to half. The little boy found it very difficult to hammer the nails and decided to control his temper.
+Gradually, the number of nails hammered to the fence was reduced and the day arrived when no nail was hammered! The boy did not lose his temper at all that day. For the next several days, he did not lose his temper, and so did not hammer any nail.
+Now, his father told him to remove the nails each time the boy controlled his anger. Several days passed and the boy was able to pull out most of the nails from the fence. However, there remained a few nails that he could not pull out.
+The boy told his father about it. The father appreciated him and asked him pointing to a hole, “What do you see there?”
+The boy replied, “a hole in the fence!”
+He told the boy, “The nails were your bad temper and they were hammered on people. You can remove the nails but the holes in the fence will remain. The fence will never look the same. It has scars all over. Some nails cannot even be pulled out. You can stab a man with a knife, and say sorry later, but the wound will remain there forever. Your bad temper and angry words were like that! Words are more painful than physical abuse! Use words for good purposes. Use them to grow relationships. Use them to show the love and kindness in your heart!”
+Moral – Unkind words cause lasting damage: Let our words be kind and sweet.
+</string>
+    <string-array name="Poem_List">
+        <item>Mary’s Lamb</item>
+        <item>Twinkle, Twinkle Little Star</item>
+        <item>Jack And Jill</item>
+        <item>Baa, Baa Black Sheep</item>
+        <item>Wee Willie Winkle</item>
+        <item>My Cat Is Fat</item>
+        <item>Topsy-Turvey-World</item>
+        <item>A Mouse In The Room</item>
+        <item>McGallimagoo</item>
+    </string-array>
+
+    <string name="poem1">Mary had a little lamb,
+Its fleece was white as snow,
+And every where that Mary went
+The lamb was sure to go;
+He followed her to school one day—
+That was against the rule,
+It made the children laugh and play,
+To see a lamb at school.
+And so the Teacher turned him out,
+But still he lingered near,
+And waited patiently about,
+Till Mary did appear;
+And then he ran to her, and laid
+His head upon her arm,
+As if he said—“I’m not afraid—
+You’ll keep me from all harm.”
+“What makes the lamb love Mary so?”
+The eager children cry—
+“O, Mary loves the lamb, you know,”
+The Teacher did reply;—
+“And you each gentle animal
+In confidence may bind,
+And make them follow at your call,
+If you are always kind.”
+</string>
+
+    <string name="poem2">Twinkle, twinkle, little star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle, little star,
+How I wonder what you are!
+When the blazing sun is gone,
+When he nothing shines upon,
+Then you show your little light,
+Twinkle, twinkle, all the night.
+Twinkle, twinkle, little star,
+How I wonder what you are!
+Then the traveler in the dark
+Thanks you for your tiny spark;
+He could not see which way to go,
+If you did not twinkle so.
+Twinkle, twinkle, little star,
+How I wonder what you are!
+In the dark blue sky you keep,
+While you thro’ my window peep,
+And you never shut your eye,
+Till the sun is in the sky,
+Twinkle, twinkle, little star,
+How I wonder what you are!
+</string>
+
+    <string name="poem3">Jack and Jill
+Went up the hill
+To fetch a pail of water,
+Jack fell down
+And broke his crown
+And Jill came tumbling after.
+Up Jack got
+And home did trot
+As fast as he could caper,
+Went to bed
+To mend his head
+With vinegar and brown paper.
+</string>
+
+    <string name="poem4">Baa, baa, black sheep,
+Have you any wool?
+Yes sir, yes sir,
+Three bags full;
+One for the master,
+And one for the dame,
+And one for the little boy
+Who lives down the lane
+</string>
+
+    <string name="poem5">Wee Willie Winkie
+Rins through the toun,
+Up stairs and doun stairs
+In his nicht-gown,
+Tirling at the window,
+Crying at the lock,
+“Are the weans in their bed,
+For it’s now ten o’clock?
+“Hey, Willie Winkie,
+Are ye coming ben?
+The cat’s singing grey thrums
+To the sleeping hen,
+The dog’s spelder’d on the floor,
+And disna gie a cheep,
+But here’s a waukrife laddie
+That winna fa’ asleep.”
+Onything but sleep, you rogue!
+Glow’ring like the moon,
+Rattling in an airn jug
+Wi’ an airn spoon,
+Rumblin’, tumblin’, round about,
+Crawing like a cock,
+Skirlin’ like a kenna-what,
+Wauk’nin’ sleeping folk.
+“Hey, Willie Winkie –
+The wean’s in a creel!
+Wamblin’ aff a body’s knee
+Like a very eel,
+Ruggin’ at the cat’s lug,
+Rav’llin’ a’ her thrums –
+Hey, Willie Winkie –
+See, there he comes!”
+Wearied is the mither
+That has a stoorie wean,
+A wee stumpie stousie,
+That canna rin his lane.
+That has a battle aye wi’ sleep,
+Before he’ll close an e’e –
+But a kiss frae aff his rosy lips
+Gies strength anew to me.
+</string>
+
+    <string name="poem6">I’ve a cat named Vesters,
+And he eats all day.
+He always lays around,
+And never wants to play.
+Not even with a squeaky toy,
+Nor anything that moves.
+When I have him exercise,
+He always disapproves.
+So we’ve put him on a diet,
+But now he yells all day.
+And even though he’s thinner,
+He still won’t come and play.
+</string>
+
+    <string name="poem7">IF the butterfly courted the bee,
+And the owl the porcupine;
+If churches were built in the sea,
+And three times one was nine;
+If the pony rode his master,
+If the buttercups ate the cows,
+If the cats had the dire disaster
+To be worried, sir, by the mouse;
+If mamma, sir, sold the baby
+To a gypsy for half a crown;
+If a gentleman, sir, was a lady,—
+The world would be Upside-down!
+If any or all of these wonders
+Should ever come about,
+I should not consider them blunders,
+For I should be Inside-out!
+Chorus
+Ba-ba, black wool,
+Have you any sheep?
+Yes, sir, a packfull,
+Creep, mouse, creep!
+Four-and-twenty little maids
+Hanging out the pie,
+Out jump’d the honey-pot,
+Guy Fawkes, Guy!
+Cross latch, cross latch,
+Sit and spin the fire;
+When the pie was open’d,
+The bird was on the brier!
+</string>
+
+    <string name="poem8">A mouse in her room woke Miss Doud
+Who was frightened and screamed very loud
+Then a happy thought hit her
+To scare off the critter
+She sat up in bed and just meowed.
+A psychiatrist fellow from Rye
+Went to visit another close by,
+Who said, with a grin,
+As he welcomed him in:
+“Hello, Smith! You’re all right! How am I?”
+A flea and a fly in a flue
+Were caught, so what could they do?
+Said the fly, “Let us flee.”
+“Let us fly,” said the flea.
+So they flew through a flaw in the flue.
+A mosquito was heard to complain,
+“A chemist has poisoned my brain!”
+The cause of his sorrow
+was para dichloro triphenyl dichloroethane.
+</string>
+    <string name="poem9">My name is not McGallimagoo,
+Although some would have you think.
+All day long they call me this,
+And I really think it stinks.
+McGallimagoo come here to me
+Mcgllimagoo sit down.
+McGallimagoo is such a funny name,
+But it always makes me frown.
+So if you see me on the street,
+Please don’t call me this.
+Refer to me by my proper name,
+Which is Mr. Hullibajiss.
+</string>
+    <string name="Q1">1. Which country is home to the kangaroo?</string>
+    <string name="Q2">2. What is the top colour in a rainbow?</string>
+    <string name="Q3">3. What sweet food made by bees using nectar from flowers?</string>
+    <string name="Q4">4. Name the school that Harry Potter attended?</string>
+    <string name="Q5">5. What is the name of the fairy in Peter Pan?</string>
+    <string name="Q6">6. What is the nickname for the bell in London?</string>
+    <string name="Q7">7. What is the capital of England?</string>
+    <string name="Q8">8. How many days are there in June?</string>
+    <string name="Q9">9. Scarlet is a bright red color?</string>
+    <string name="Q10">10. What was Mickey Mouse’s original name?</string>
+
+    <string name="A1">Australia</string>
+    <string name="A2">Red</string>
+    <string name="A3">Honey</string>
+    <string name="A4">Hogwarts</string>
+    <string name="A5">Tinkerbell</string>
+    <string name="A6">Big Ben</string>
+    <string name="A7">London</string>
+    <string name="A8">30</string>
+    <string name="A9">True</string>
+    <string name="A10">Mortimer Mouse</string>
+
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/f1"
+    android:orientation="vertical"
+    android:weightSum="3"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/shortstorytextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:shadowRadius="@android:integer/config_longAnimTime"
+        android:singleLine="true"
+        android:text="Short Stories"
+        android:textColor="@android:color/black"
+        android:textSize="55dp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/poemtextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Poems"
+        android:textColor="@android:color/black"
+        android:textSize="55dp"
+        android:textStyle="bold|italic"
+        android:clickable="true" />
+
+
+    <TextView
+        android:id="@+id/quiztextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiz"
+        android:textSize="55dp"
+        android:textStyle="bold|italic"
+        android:textColor="@android:color/black"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/exittextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:textSize="55dp"
+        android:textStyle="bold|italic"
+        android:textColor="@android:color/black"
+        android:gravity="center"/>
+
+
+
+</LinearLayout>
